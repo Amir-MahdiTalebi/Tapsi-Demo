@@ -1,0 +1,38 @@
+/* Vazirmatn */
+@font-face {
+  font-family: 'Vazirmatn';
+  font-weight: 200;
+  font-style: none;
+  src: url('../assets/fonts/Persian/Vazirmatn-ExtraLight.ttf');
+}
+@font-face {
+  font-family: 'Vazirmatn';
+  font-weight: 400;
+  font-style: none;
+  src: url('../assets/fonts/Persian/Vazirmatn-Regular.ttf');
+}
+@font-face {
+  font-family: 'Vazirmatn';
+  font-weight: 500;
+  font-style: none;
+  src: url('../assets/fonts/Persian/Vazirmatn-Medium.ttf');
+}
+@font-face {
+  font-family: 'Vazirmatn';
+  font-weight: 700;
+  font-style: none;
+  src: url('../assets/fonts/Persian/Vazirmatn-Bold.ttf');
+}
+@font-face {
+  font-family: 'Vazirmatn';
+  font-weight: 800;
+  font-style: none;
+  src: url('../assets/fonts/Persian/Vazirmatn-ExtraBold.ttf');
+}
+
+
+
+/* font-family */
+body{
+  font-family: 'Vazirmatn';
+}
